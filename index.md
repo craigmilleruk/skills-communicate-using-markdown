@@ -4,3 +4,7 @@ This text is important
 This is less so
 ### Pics
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+### Code
+``` markdown
+# HEader
+```
